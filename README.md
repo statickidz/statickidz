@@ -9,7 +9,7 @@
 - 🔭 Currently building UnrealCinema, a cinema mod built in Unreal Engine with plans to make it open-source.
 - 🌱 Mostly self taught, always learning how to be a better coder, better human and a better professional.
 - 💻 I mainly code in Javascript, PHP, SQL, am competent with UI/UX, Devops, Docker and front-end.
-- 🎮 A long date PC Gamer, love a good narrative game, indies, Overwatch and I am tired of competitive FPS but trying to beat someone in Warzone.
+- 🎮 A long date PC Gamer, love a good narrative game, indies, Overwatch and trying to beat someone in Warzone.
 - ⚡ I also like cycling sports and e-sports in general.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=statickidz&count_private=true)
