@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@statickidz.com)](mailto:info@statickidz.com/)
 
 - ✒ I'm Adrian Barrio, a coder based in La Rioja, Spain. I thrive for excellence and am not afraid to try new things, always trying to solve things with code.
-- ⚒ I work at [<img height="12" src="https://s2.coinmarketcap.com/static/img/coins/200x200/1403.png">FirstBlood.io](https://firstblood.io) and [<img height="12" src="https://i.imgur.com/vt6yRK6.png"> mana.app](https://www.managamingapp.com/), remotely, with a focus on creating amazing front-end experiences and making features a reality with a distributed team.
+- ⚒ I work at [<img height="12" src="https://s2.coinmarketcap.com/static/img/coins/200x200/1403.png">FirstBlood.io](https://firstblood.io) and [<img height="12" src="https://i.imgur.com/vt6yRK6.png"> mana.app](https://www.mana.app), remotely, with a focus on creating amazing front-end experiences and making features a reality with a distributed team.
 - 🔭 Currently building UnrealCinema, a cinema mod built in Unreal Engine with plans to make it open-source.
 - 🌱 Mostly self taught, always learning how to be a better coder, better human and a better professional.
 - 💻 I mainly code in Javascript, PHP, SQL, am competent with UI/UX, Devops, Docker and front-end.
