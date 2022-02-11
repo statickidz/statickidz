@@ -8,7 +8,7 @@
 - ⚒ I work at [<img height="12" src="https://s2.coinmarketcap.com/static/img/coins/200x200/1403.png">FirstBlood.io](https://firstblood.io) and [<img height="12" src="https://i.imgur.com/vt6yRK6.png"> mana.app](https://www.mana.app), remotely, with a focus on creating amazing front-end experiences and making features a reality with a distributed team.
 - 🌱 Mostly self taught, always learning how to be a better coder, better human and a better professional.
 - 💻 I mainly code in Dart, Javascript, and PHP am competent with UI/UX, Devops, Docker and front-end.
-- 🎮 A long date PC Gamer, love a good narrative game, and indies.
+- 🎮 A long date PC Gamer, love a good narrative game and indies.
 - ⚡ I also like cycling sports and e-sports in general.
 
 🐱‍👤 Current favourite stacks:
