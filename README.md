@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@statickidz.com)](mailto:info@statickidz.com/)
 
 - ✒ I'm Adrian Barrio, a coder based in La Rioja, Spain. I thrive for excellence and am not afraid to try new things, always trying to solve things with code.
-- ⚒ I work at [<img height="12" src="https://i.imgur.com/9WmTw0H.jpg"> HABITANT](https://habitant.es), which is part of [<img height="12" src="https://i.imgur.com/rbv2ozD.png"> Globant](https://globant.com) as a Engineering Operations manager with a focus on creating amazing user experiences and making features a reality with a distributed team.
+- ⚒ I work at [<img height="12" src="https://i.imgur.com/9WmTw0H.jpg"> HABITANT](https://habitant.es), which is part of [<img height="12" src="https://i.imgur.com/rbv2ozD.png"> Globant](https://globant.com) as a Engineering Operations Manager with a focus on creating amazing user experiences and making features a reality with a distributed team.
 - 🌱 Mostly self taught, always learning how to be a better coder, better human and a better professional.
 - 💻 I mainly code in Dart, Javascript, and PHP am competent with UI/UX, Devops, Docker and front-end.
 - 🎮 A long date PC Gamer, love a good narrative game and indies.
