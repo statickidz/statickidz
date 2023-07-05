@@ -1,6 +1,5 @@
 # Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/adryworld?color=d83a7c&logoColor=d83a7c&style=flat-square&logo=Twitter)](https://twitter.com/adryworld)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianbarrio/)](https://www.linkedin.com/in/adrianbarrio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@statickidz.com)](mailto:info@statickidz.com/)
 
