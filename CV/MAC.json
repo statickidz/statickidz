@@ -31,10 +31,6 @@
         "URL": "https://github.com/statickidz"
       },
       {
-        "type": "stackoverflow",
-        "URL": "https://stackoverflow.com/users/12280414"
-      },
-      {
         "type": "other",
         "URL": "https://statickidz.com/"
       }
@@ -503,10 +499,6 @@
         {
           "URL": "https://linkedin.com/in/adrianbarrio",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://stackoverflow.com/users/12280414",
-          "type": "stackoverflow"
         },
         {
           "URL": "https://github.com/statickidz",
