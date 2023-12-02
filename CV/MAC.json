@@ -503,6 +503,12 @@
       ],
       "contactMails": [
         "statickidz@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "695503206",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
