@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - ✨ I'm **Adrián Barrio**, a coder from La Rioja, Spain — passionate about clean code, clever solutions and coffee-powered builds.
-- 🏥 Currently rocking it as a **Site Reliability Engineer** at <img height="12" src="https://www.oracle.com/asset/web/favicons/favicon-32.png"> [Oracle](https://www.oracle.com/), keeping Oracle Health’s cloud infra reliable, scalable and sane.
+- 🏥 Currently rocking it as a **Senior Site Reliability Engineer** at <img height="12" src="https://www.oracle.com/asset/web/favicons/favicon-32.png"> [Oracle](https://www.oracle.com/), keeping Oracle Health’s cloud infra reliable, scalable and sane.
 - 👨‍💻 Previously worked across **frontend**, **mobile app development**, and led teams as an **Engineering Manager** — blending code, creativity, and people skills.
 - ☁️ Co-organizer of <img height="12" src="https://i.imgur.com/Gic1dWt.png"> [Cloud Native Rioja](https://github.com/cloudnativerioja), building a diverse and vibrant cloud-native tech community.
 - 🌱 Lifelong learner — self-taught dev turned team leader, always pushing to level up in both tech and life.
