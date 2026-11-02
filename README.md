@@ -1,4 +1,4 @@
-<!-- Header source: scripts/generate-headers.ps1. Usage: scripts/README.md. -->
+<!-- Header source: scripts/generate-headers.sh. Usage: scripts/README.md. -->
 <img src="./assets/header-terminal.svg" alt="Adrián Barrio — building software, growing teams" width="1120">
 
 [Website](https://statickidz.com/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/adrianbarrio/) &nbsp;·&nbsp; [Cloud Native Rioja](https://cloudnativerioja.com/) &nbsp;·&nbsp; [AAIF](https://agenticrioja.com/) &nbsp;·&nbsp; [Repositories](https://github.com/statickidz?tab=repositories)
